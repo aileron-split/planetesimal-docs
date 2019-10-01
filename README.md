@@ -1,10 +1,10 @@
 ### Planetesimal Documentation
 
-This repository's wiki page contains the documentation for the Planetesimal Unreal Engine 4 plugin.
+This repository's [wiki](../../wiki) page contains the documentation for the Planetesimal Unreal Engine 4 plugin.
 
-#### 1) [Introduction]()
-1. [About]()
-2. [Features]()
+#### 1) [Introduction](../../wiki/Home)
+1. [About](../../wiki/Home#about)
+2. [Features](../../wiki/Home#features)
 3. [Getting Started]()
     1. [Plugin Installation]()
     2. [Minimal Example]()
