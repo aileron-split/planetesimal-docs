@@ -1,6 +1,6 @@
 ### Planetesimal Documentation
 
-This repository's [wiki](../../wiki) page contains the documentation for the Planetesimal Unreal Engine 4 plugin.
+This repository's [wiki](../../wiki) page contains the documentation for the Planetesimal Unreal Engine 4 plugin, while the [Issues](../../issues) section is used for bug reporting and issues tracking.
 
 ***
 
@@ -11,4 +11,4 @@ Planetesimal is essentially a system of material functions, actor components, an
 Available on [Unreal Engine Marketplace.](https://www.unrealengine.com/marketplace)
 ***
 
-[Get Planetesimal](https://www.unrealengine.com/marketplace) - [About Planetesimal](../../wiki/Home) - [Getting Started](../../wiki/Getting-Started) - [Creator's Web Page](https://www.aileron.hr)
+[Get Planetesimal](https://www.unrealengine.com/marketplace) - [About Planetesimal](../../wiki/Home) - [Getting Started](../../wiki/Getting-Started) - [Report an Issue](../../issues/new) - [Creator's Web Page](https://www.aileron.hr)
