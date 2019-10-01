@@ -2,6 +2,8 @@
 
 This repository's [wiki](../../wiki) page contains the documentation for the Planetesimal Unreal Engine 4 plugin.
 
+***
+
 **Planetesimal Plugin** is a comprehensive, highly efficient and highly flexible atmospheric scattering render system for **Unreal Engine 4**
 
 Planetesimal is essentially a system of material functions, actor components, and supporting C++/Blueprint functions library, which enables physically correct atmospheric scattering render in your games and projects.
